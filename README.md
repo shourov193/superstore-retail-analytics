@@ -154,5 +154,5 @@ ORDER BY discount_band;
 Built as part of a 3-project Data Analyst portfolio demonstrating end-to-end analytics capability across Power Query, SQL Server, Power BI, and DAX.
 
 **Open to freelance data analytics and dashboard projects.**
-📩 Connect with me on [LinkedIn](your-linkedin-url)
+📩 Connect with me on [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/shaharier--shourov/))
 
